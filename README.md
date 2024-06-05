@@ -1,7 +1,3 @@
-Sure, here is a GitHub README for the project:
-
----
-
 # Multi-Model Data Fusion with MNIST Images
 
 This project demonstrates multi-model data fusion by combining synthetic customer data, purchase history, website activity, and image data from the MNIST dataset. The goal is to create a comprehensive dataset that offers a richer and more complete view of the information.
