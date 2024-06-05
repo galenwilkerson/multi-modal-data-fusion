@@ -108,7 +108,3 @@ This project is licensed under the MIT License.
 
 - The MNIST dataset is provided by Yann LeCun and Corinna Cortes.
 - This project utilizes `pandas`, `numpy`, `matplotlib`, `scikit-learn`, and `tqdm`.
-
----
-
-Feel free to customize the README as per your requirements.
